@@ -30,4 +30,15 @@ Employee attrition, or turnover, can significantly impact an organization’s pr
 </ul>
 
 ### 5. Job Satisfaction Ratings
-<ul><li><b>Satisfaction Ratings:</b> Presents the distribution of job satisfaction ratings across various job roles, rated from 1 to 4.</li>
+<ul><li><b>Satisfaction Ratings:</b> Presents the distribution of job satisfaction ratings across various job roles, rated from 1 to 4.</li></ul>
+
+ ## Insights and Analysis
+
+### Key Insights:
+<ol>
+  <li> <b>High Attrition in Certain Age Groups:</b> The age group 26-35 show the highest attrition, indicating potential issues that may need addressing for this demographic.</li>
+  <li><b>Impact  of Education on Attrition:</b> Employees with a life sciences background have the highest attrition rate, suggesting a potential mismatch between job roles and educational background.</li>
+  <li><b>Salary Influence on Attrition:</b> A significant number of employees earnings up to 5k show higher attrition, highlighting the importance of competetive compensation.</li>
+  <li><b>Tenure-Related Attrition Trends:</b> Most attrition occurs within the first year, emphasizing the need for imporved onboarding and early engagement strategies.</li>
+  <li><b>Job Role Specific Attrition:</b> Certain roles, like Laboratory Technicians and sales Executives, experience higher attrition, pointing towards role- specific challenges.</li>
+</ol>
